@@ -9,3 +9,8 @@
   - ARMに対応したのでラズパイでも動くように
     - Imageサイズも減ったらしい
     - The v2.3 image is nearly halved in size, from 400MB to 200MB.
+- [How To Set Up Argo CD With Terraform To Implement Pure GitOps](https://betterprogramming.pub/how-to-set-up-argo-cd-with-terraform-to-implement-pure-gitops-d5a1d797926a)
+  - モダンなGitOpsがコンパクトにまとまっていてよかった
+  - GitHub ActionsのTerraform周りはちょっとリテラルが目についたけど
+  - so if there are any changes done in the cluster outside GitOps, Argo CD can alert your team in, say, a Slack channel.
+  - GitOpsの外で変更があると通知が飛ばせるの知りませんでした
