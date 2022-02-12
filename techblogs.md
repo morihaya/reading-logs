@@ -14,3 +14,8 @@
   - GitHub ActionsのTerraform周りはちょっとリテラルが目についたけど
   - so if there are any changes done in the cluster outside GitOps, Argo CD can alert your team in, say, a Slack channel.
   - GitOpsの外で変更があると通知が飛ばせるの知りませんでした
+- [CKA vs CKAD vs CKS – What is the Difference](https://kodekloud.com/cka-vs-ckad-vs-cks-what-is-the-difference/?utm_source=udemy&utm_medium=email&utm_campaign=udemy+announcements)
+  - タイトルに惹かれて軽い気持ちで読み始めたが、文体が饒舌なのか知らない単語が多くて読みづらい
+  - 内容は大して難しくないので、もうちょい英語勉強してから読み返したときの試金石になりそう
+  - CKSがんばろうとなりました
+  
