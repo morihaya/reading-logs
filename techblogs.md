@@ -18,4 +18,6 @@
   - タイトルに惹かれて軽い気持ちで読み始めたが、文体が饒舌なのか知らない単語が多くて読みづらい
   - 内容は大して難しくないので、もうちょい英語勉強してから読み返したときの試金石になりそう
   - CKSがんばろうとなりました
-  
+- [Now You can Invoke PagerDuty Rundeck Actions Within the PagerDuty Slack Integration](https://www.pagerduty.com/blog/rundeck-actions-slack-integration-launch/)
+  - PagerDuty Rundeck ActionsをSlackから呼び出せるようになった
+  - そもそもPRAを利用したことがないので、今度使ってみよう
