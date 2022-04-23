@@ -21,3 +21,7 @@
 - [Now You can Invoke PagerDuty Rundeck Actions Within the PagerDuty Slack Integration](https://www.pagerduty.com/blog/rundeck-actions-slack-integration-launch/)
   - PagerDuty Rundeck ActionsをSlackから呼び出せるようになった
   - そもそもPRAを利用したことがないので、今度使ってみよう
+- [What is a site reliability engineer and why you should consider this career path](https://opensource.com/article/18/10/what-site-reliability-engineer)
+  - 2018年と少し古い記事
+  - Goの公式ドキュメントからのリンクで読んだ
+  - 短くて読みやすいし、SREのエッセンスが凝縮されていたので良いでドキュメントでした
