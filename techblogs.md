@@ -25,3 +25,6 @@
   - 2018年と少し古い記事
   - Goの公式ドキュメントからのリンクで読んだ
   - 短くて読みやすいし、SREのエッセンスが凝縮されていたので良いでドキュメントでした
+- [Introducing Terramate — An Orchestrator and Code Generator for Terraform](https://medium.com/mineiros/introducing-terramate-an-orchestrator-and-code-generator-for-terraform-5e538c9ee055)
+  - Terraformを階層構造で変数を継承しながら書けるツール
+  - 運用コマンドも関連するディレクトリ（Stack）のみを指定して `plan` `apply` などできる
