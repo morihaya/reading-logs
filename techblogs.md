@@ -34,3 +34,8 @@
   - やはりGitHub Actions強そう
   - Tektonちょいちょい見るなぁ
   - Trivyは外せないっぽい
+- [Refactor Terraform code with Moved Blocks — a new way without manually modifying the state](https://medium.com/fme-developer-stories/refactor-terraform-code-with-moved-blocks-a-new-way-without-manually-modifying-the-state-5ed1d80ed53e)
+  - count to for_each のリファクタで moved のブロックを使うことでmvでstateをいじらなくてよくなる
+  - それ以外の場面でも使える
+  - terraform state mvを使う場面が完全になくなるわけではないらしい
+  - apply後もあえて残しておくほうが運用上は良い可能性もある
