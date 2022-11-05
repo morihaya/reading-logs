@@ -39,3 +39,7 @@
   - それ以外の場面でも使える
   - terraform state mvを使う場面が完全になくなるわけではないらしい
   - apply後もあえて残しておくほうが運用上は良い可能性もある
+- [6 kubectl plugins you must try](https://itnext.io/6-kubectl-plugins-you-must-try-1411dcbcf950)
+  - deprecations: 名前の通り、deprecatedなAPIを利用しているマニフェストを表示してくれる v1beta 的なやつ
+  - get-all: `k get all` では出力されないものまで出力してくれる
+  - outdated: クラスタ内のimageを検査してlatestとの比較を一覧として出してくれる
