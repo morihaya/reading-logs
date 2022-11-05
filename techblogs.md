@@ -28,3 +28,9 @@
 - [Introducing Terramate — An Orchestrator and Code Generator for Terraform](https://medium.com/mineiros/introducing-terramate-an-orchestrator-and-code-generator-for-terraform-5e538c9ee055)
   - Terraformを階層構造で変数を継承しながら書けるツール
   - 運用コマンドも関連するディレクトリ（Stack）のみを指定して `plan` `apply` などできる
+- [10 New DevOps Tools to Watch in 2023](https://medium.com/4th-coffee/10-new-devops-tools-to-watch-in-2023-e974dbb1f1bb)
+  - sopsはYAMLの暗号化と複合化が可能なEditorで、Ansible-vaultの代替になりそう。単純に面白いし便利そう
+  - HarnessによるCI/CDパイプラインSaaS気になる
+  - やはりGitHub Actions強そう
+  - Tektonちょいちょい見るなぁ
+  - Trivyは外せないっぽい
