@@ -1,4 +1,33 @@
 ## [Apache Airflow - Documents](https://airflow.apache.org/docs/apache-airflow/stable/index.html)
 
-- english word
- - 日本語の説明
+- inspiration
+ - 刺激
+- knobs
+  - ノブ、取手、つまみ
+- predictable
+  - 予測可能な
+- respectively
+  - それぞれの、一つ一つの、個別の
+- exclusively
+  - 独占的に
+- precedence
+  - 優先的に
+- authoritative
+  - 権威的な、信頼できる、正式な
+- wipe
+  - 一掃する（無くす的な）、拭う、拭き取る
+- Conversely
+  - 反対に、逆に、
+- altogether
+  - 全く、全然、完全に
+- dangling
+  - ぶら下がる、懸垂（意味的には権限がそのまま適用されるとして使われていた
+- defer to
+  - 〜に従う。defer単体だと伸ばす、延期する、保留する
+- strict
+  - 厳格な、厳しい
+- strive for
+  - 〜を目指して努力する
+- transitive
+  - 推移的な、過渡的な
+- 
