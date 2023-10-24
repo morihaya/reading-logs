@@ -30,4 +30,8 @@
   - 〜を目指して努力する
 - transitive
   - 推移的な、過渡的な
+- wrap your head around
+  - 頭に入れておく、理解する
+- intuitive
+  - 直感的な
 - 
